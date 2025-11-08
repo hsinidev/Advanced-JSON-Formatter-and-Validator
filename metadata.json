@@ -1,0 +1,5 @@
+{
+  "name": "Advanced JSON Formatter and Validator",
+  "description": "A professional tool to format, validate, pretty-print, and debug JSON data. Features multiple formatting options, error highlighting, and utility functions like copy and download. Runs entirely in your browser for maximum privacy and speed.",
+  "requestFramePermissions": []
+}
